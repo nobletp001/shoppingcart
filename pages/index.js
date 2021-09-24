@@ -40,7 +40,7 @@ export default function Home({datas}) {
     <div className="row">
       <div className="col-md-6 mb-4 col-12">
         <form className="form-inline">
-          <input className="form-control form-control-sm mr-3 w-75" type="text" placeholder="Search" aria-label="Search" />
+          <input className="form-control form-control-sm mr-3 w-100" type="text" placeholder="Search" aria-label="Search" />
         </form>
       </div>
       <div className="col-md-6 mb-4 col-12">
